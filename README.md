@@ -6,8 +6,8 @@ Passionate about building mobile apps with Flutter, managing computer networks, 
 ---
 
 ### 🔭 Current Projects
-- **[Libris](https://github.com/yourusername/libris)** – Library management system  
-- **[Wiredesk](https://github.com/yourusername/wiredesk)** – Desktop support & management tool  
+- **[Libris](https://github.com/m4v3r4/libris)** – Library management system  
+- **[Wiredesk](https://github.com/m4v3r4/wiredesk)** – Desktop support & management tool  
 - Other GitHub projects
 
 ### 🌱 Currently Learning
