@@ -18,6 +18,9 @@ Passionate about building mobile apps with Flutter, managing computer networks, 
 - Flutter, Dart, C#, Python, Java  
 - Linux & network management  
 - Computer hardware & technical support
+  
+### 💖 Support Me
+[![Patreon](https://img.shields.io/badge/Patreon-Donate-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/m4v3r4)
 
 ### 📫 Contact
 - Email: sberkayu@gmail.com  
