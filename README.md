@@ -7,7 +7,7 @@ Passionate about building mobile apps with Flutter, managing computer networks, 
 
 ### 🔭 Current Projects
 - **[Libris](https://github.com/m4v3r4/libris)** – Library management system  
-- **[Wiredesk](https://github.com/m4v3r4/wiredesk)** – Desktop support & management tool
+- **[Zimmetle](https://github.com/m4v3r4/zimmetle)** – Inventory Management System
 - **[Lumin](https://github.com/m4v3r4/lumin)** – Wordpress Theme
 - Other GitHub projects
 
