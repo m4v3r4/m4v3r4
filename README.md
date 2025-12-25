@@ -31,7 +31,8 @@ Passionate about building mobile apps with Flutter, managing computer networks, 
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4v3r4)](https://github.com/m4v3r4/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4v3r4&show_icons=true&theme=tokyonight)
+
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
