@@ -33,6 +33,7 @@ Passionate about building mobile apps with Flutter, managing computer networks, 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4v3r4&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4v3r4&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=m4v3r4&theme=tokyonight)
 
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
