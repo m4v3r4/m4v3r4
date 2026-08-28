@@ -14,7 +14,6 @@ I enjoy building small, useful tools, improving old projects instead of abandoni
 
 - **[Libris](https://github.com/m4v3r4/Libris)** — Offline-first library management system built with Flutter and SQLite.
 - **[Lumin](https://github.com/m4v3r4/Lumin)** — Lightweight WordPress theme.
-- **[m4v3r4.github.io](https://github.com/m4v3r4/m4v3r4.github.io)** — Personal website and digital archive.
 
 ## Stack
 
