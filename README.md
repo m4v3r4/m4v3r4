@@ -4,6 +4,12 @@ Software developer focused on **Flutter**, desktop/mobile applications, Linux sy
 
 I enjoy building small, useful tools, improving old projects instead of abandoning them, and working with software that can run locally and remain under the user's control.
 
+## Published apps
+
+- **[Port22](https://play.google.com/store/apps/details?id=com.m4v3r4.port22)** — Mobile SSH and SFTP client for developers and system administrators.
+- **[Nöbetmatik](https://play.google.com/store/apps/details?id=com.m4v3r4.nobetmatik)** — Shift planning and scheduling application.
+- **[Asosyoloji](https://play.google.com/store/apps/details?id=com.asosyoloji.app)** — Mobile publishing platform for sociology, philosophy, politics, and culture.
+
 ## Open source
 
 - **[Libris](https://github.com/m4v3r4/Libris)** — Offline-first library management system built with Flutter and SQLite.
