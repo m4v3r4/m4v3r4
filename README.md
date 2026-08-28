@@ -1,53 +1,24 @@
-<h1 align="center">Hi 👋, I'm Berkay Uluçay (m4v3r4)</h1>
-<h3 align="center">Flutter Developer & Network Enthusiast</h3>
+# Berkay Uluçay
 
-Passionate about building cross-platform applications with Flutter, managing Linux systems and computer networks, and providing technical support.
+Software developer focused on **Flutter**, desktop/mobile applications, Linux systems, and practical open-source software.
 
----
+I enjoy building small, useful tools, improving old projects instead of abandoning them, and working with software that can run locally and remain under the user's control.
 
-### 📱 Published Mobile Apps
+## Open source
 
-* **[Port22](https://play.google.com/store/apps/details?id=com.m4v3r4.port22)** – Mobile SSH and SFTP client for developers and system administrators
-* **[Nöbetmatik](https://play.google.com/store/apps/details?id=com.m4v3r4.nobetmatik)** – Smart shift planning and scheduling application
-* **[Asosyoloji](https://play.google.com/store/apps/details?id=com.asosyoloji.app)** – Mobile publishing platform for sociology, philosophy, politics and culture
+- **[Libris](https://github.com/m4v3r4/Libris)** — Offline-first library management system built with Flutter and SQLite.
+- **[Lumin](https://github.com/m4v3r4/Lumin)** — Lightweight WordPress theme.
+- **[m4v3r4.github.io](https://github.com/m4v3r4/m4v3r4.github.io)** — Personal website and digital archive.
 
-### 🔭 Current Projects
+## Stack
 
-* **[Libris](https://github.com/m4v3r4/libris)** – Library management system
-* **[Zimmetle](https://github.com/m4v3r4/zimmetle)** – Inventory management system
-* **[Lumin](https://github.com/m4v3r4/lumin)** – WordPress theme
-* Other Flutter, mobile and web projects
+`Flutter` `Dart` `Python` `SQLite` `Firebase` `REST APIs` `Docker` `Linux` `Git`
 
-### 🛠️ Technologies
+Also interested in networking, self-hosted services, radio communication, and open-source software.
 
-* Flutter, Dart, Riverpod and GoRouter
-* Firebase, REST API and SQLite
-* Git, Docker, Nginx and Linux
-* C#, Python and Java
+## Contact
 
-### 🌱 Currently Learning
-
-* RTL-SDR and radio communication
-* Advanced Flutter and cross-platform development
-
-### 💬 Ask Me About
-
-* Flutter and Dart development
-* Linux and network management
-* Computer hardware and technical support
-
-### 💖 Support Me
-
-[![Patreon](https://img.shields.io/badge/Patreon-Donate-orange?style=for-the-badge\&logo=patreon\&logoColor=white)](https://www.patreon.com/m4v3r4)
-
-### 📫 Contact
-
-* Email: [sberkayu@gmail.com](mailto:sberkayu@gmail.com)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/s-berkay-u/)
-* [![X](https://img.shields.io/badge/X-%23000000.svg?\&style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/m4v3r4)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=m4v3r4\&theme=tokyonight)
+- [Website](https://m4v3r4.github.io)
+- [LinkedIn](https://www.linkedin.com/in/s-berkay-u/)
+- [X](https://x.com/m4v3r4)
+- [Email](mailto:sberkayu@gmail.com)
